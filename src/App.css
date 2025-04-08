@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.search-container {
+  display: flex;
+  flex-direction: column;
+  justify-self: center;
+  width: 20%;
+}
+
+.search-container input {
+  height: 50px;
+  font-size: large;
+  margin-bottom: 12px;
+  text-align: center;
+  text-transform: uppercase;
+}
